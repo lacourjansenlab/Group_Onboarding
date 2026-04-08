@@ -90,5 +90,5 @@ tell you all about the details of how the calculation went. You can also find us
 the dipole moment of the water molecule. The energy is probably close to -75.9 Hartree and the dipole moment close to 0.83
 Debye.
 
-In the ORCA manual you can find information about other types of calculations that you can do. However, likely you will
-always first like to do a geometry optimization as we did here.
+In the [ORCA manual](https://www.faccts.de/docs) you can find information about other types of calculations that you can do.
+However, likely you will always first like to do a geometry optimization as we did here.
