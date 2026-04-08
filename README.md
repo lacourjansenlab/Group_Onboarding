@@ -111,6 +111,12 @@ cd /scratch/$USER
 
 ---
 
+## Part 3: Quantum Chemical Calculations
+
+You can find the description of how to optimize the geometry of the water molecule with ORCA [here](ORCA.md).
+
+---
+
 We are grateful to [Andrea Giuntoli and his group](https://giuntoligroup.web.rug.nl/) for the inspiration to this page.
 
 [The Giuntoli onboarding](https://github.com/giuntoli-group/init-project)
