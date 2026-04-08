@@ -10,7 +10,9 @@ The group is working at different aspects of Computational Spectroscopy. Dependi
 - Electrostatic Mappings
 - Spectral Calculations
 - Energy Transfer Calculations
-- Analysing data using Python
+- Analysing data using Python (using VScode)
+- Using GitHub for programming
+
 
 In the sections below a description of how to get started working on an HPC cluster is given. This will be followed by sections guiding you on each of the aspects outlined above. In discussion with your supervisor you can skip certain tasks if they are not relevant for your project.
 
