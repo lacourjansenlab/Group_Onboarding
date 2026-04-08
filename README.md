@@ -3,7 +3,10 @@ This repository is a guide for getting started when joining the lacourjansengrou
 
 This page is still work in progress.
 
-##
+## Work in the group
+The group is working at different aspects of Computational Spectroscopy. Depending on your project you will have different tasks and parts of this tutorial will be more useful than others. The structure of this document reflects these differences. As a starting point all group members do extensive calculations which require the use of high perfomance computing clusters (HPC). Therefore you should make sure that you are familiar with how to use linux and these clusters. The other aspects that we treat in our group are:
+
+You may also find other useful information on academic work in our group at the [Artificial PhD student](https://github.com/lacourjansenlab/TheArtificialPhDstudent), which you can get access to by joining the GitHub group.
 
 # Kickoff assignment
 
