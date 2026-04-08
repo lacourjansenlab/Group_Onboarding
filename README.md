@@ -30,8 +30,8 @@ This document provides you with the fundamental tools used in your project. You 
 At the end of this tutorial, you should be able to
 - find your way in the terminal using the fundamental commands 
 - connect to Habrok either directly from terminal (for mac and linux users) or through Putty (for windows users)
-- run your first simulation on the interactive node of Habrok 
-- understand the Bead-Spring model and the unit system
+- run your first simulation on the interactive node of Habrok
+- submit a job on Habrok
 - call Python functions
 - plot your results using matplotlib
 - compare your numerical results to known theory
