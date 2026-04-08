@@ -29,3 +29,13 @@ This will tell ORCA to do a geometry optimization of the water molecule using th
 starting point. We will need to create that. ORCA will here use the RPBE exchange correlation functional, the def2-TZVPP
 basis set and have strict optimization criteria for the geometry and the self consistent field (SCF) calculation. The
 calculation will be running in parallel on 8 CPUs (overkill for this small molecule, but you will like to use this later).
+
+We can make a file with the initial structure of water. Name it `Water.xyz`. The coordinates below are probably a bad guess.
+You can make better starting structures with freely available programs as 'Avogadro' and store them as 'xyz' files as this one.
+```bash!
+3
+Coordinates of water
+  O -0.1 0.0 0.0
+  H 0.5 0.0 -0.7
+  H 0.5 0.0  0.7
+```
