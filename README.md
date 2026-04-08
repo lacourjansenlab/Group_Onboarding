@@ -44,7 +44,7 @@ Throughout this document, you will encounter some tasks. Please complete them in
 ---
 
 
-## Part 1: Introduction to command line
+## Part 1: Introduction to the linux line
 
 The command line, or terminal, is a text-based interface to the system. You can navigate through files, run programs, and even connect to other computers. For many computational projects, especially those involving computer clusters, the command line is an essential tool.
 
