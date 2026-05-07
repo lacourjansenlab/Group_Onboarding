@@ -13,3 +13,13 @@ If you already have your window and doorway functions from a previous calculatio
 * doorway.dat
 
 After running NISE, we would like to analize the resulting 2D spectral files, for this system specifically, we are interested in the parallel polarization data files _2D.par.dat_. This file consists of four columns. The first one being the excitation frequency $\omega_1$ and the second is the detection frequency $\omega_3$. In the third and fourth columns, we have the imaginary and the real parts of the signal, respectively. Here, we will be working with the real part only.
+
+```
+# Load data - update path to your actual data location
+columns = ['w1','w3','im','re']
+path = '/homeN/sNUMBER/YourPath/'
+
+# Read in 2D data
+data_path1 = path+'00d001/'+'2D.par.dat'
+t4_00d001ps = pd.read_csv(data_path1, sep=' ', header=None, names=columns)
+```
