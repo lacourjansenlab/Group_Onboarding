@@ -119,6 +119,10 @@ You can find the description of how to optimize the geometry of the water molecu
 
 You can find a tutorial on how to do a MD simulation of the lysozyme protein with GROMACS [here](http://www.mdtutorials.com/gmx/lysozyme/index.html).
 
+## Part 5: Research Data Management
+
+Here a description of how to keep track of your data will be given.
+
 ---
 
 We are grateful to [Andrea Giuntoli and his group](https://giuntoligroup.web.rug.nl/) for the inspiration to this page.
